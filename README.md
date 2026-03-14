@@ -155,9 +155,3 @@ Este repositorio está pensado para:
 - añadir system prompts configurables
 - dockerizar la aplicación
 - añadir soporte para más modelos de Ollama
-
----
-
-# Licencia
-
-Puedes añadir una licencia como **MIT** para permitir uso libre del proyecto.
